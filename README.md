@@ -2,9 +2,6 @@
 
 Este sitio web representa una cafetería, con un diseño profesional que desarrollé siguiendo un curso en YouTube. Usé HTML, CSS, y JavaScript.
 
-## Demo en vivo
-[Visita la página aquí](https://emmalcruz.github.io/baristas/)
-
 ## Tecnologías utilizadas
 - HTML
 - CSS
